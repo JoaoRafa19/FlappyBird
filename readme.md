@@ -20,5 +20,8 @@
 
 
 <h4>Tela Inicial</h4>
+<hr>
+<img src="https://github.com/JoaoRafa19/FlappyBird/blob/master/source/ss01.png?raw=true">
 
-<img src="./
+<h4>Tela de Jogo<h4>
+<img style="width:100; height:200"src="https://github.com/JoaoRafa19/FlappyBird/blob/master/source/ss02.png?raw=true">
